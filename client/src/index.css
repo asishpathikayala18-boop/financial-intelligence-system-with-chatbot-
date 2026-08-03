@@ -1,0 +1,1857 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f5f7fb;
+  --bg-soft: #f9fbfd;
+  --panel: #ffffff;
+  --panel-muted: #f7faf9;
+  --text: #152238;
+  --muted: #6f7d90;
+  --line: #e7edf3;
+  --green-900: #063e34;
+  --green-800: #0b5a49;
+  --green-700: #0f7a54;
+  --green-600: #15925f;
+  --green-100: #eaf7ef;
+  --blue-600: #2f74c8;
+  --blue-100: #eaf2ff;
+  --red-600: #ef553f;
+  --red-100: #fff0ee;
+  --orange-600: #f3a323;
+  --orange-100: #fff6e7;
+  --violet-600: #7d58c2;
+  --violet-100: #f2ecff;
+  --shadow: 0 18px 45px rgba(17, 36, 66, 0.08);
+}
+
+:root[data-theme="dark"] {
+  --bg: #08141c;
+  --bg-soft: #0d1b25;
+  --panel: #11212e;
+  --panel-muted: #132635;
+  --text: #edf4fb;
+  --muted: #9bb0c2;
+  --line: rgba(255, 255, 255, 0.08);
+  --green-100: rgba(21, 146, 95, 0.14);
+  --blue-100: rgba(47, 116, 200, 0.16);
+  --red-100: rgba(239, 85, 63, 0.16);
+  --orange-100: rgba(243, 163, 35, 0.16);
+  --violet-100: rgba(125, 88, 194, 0.16);
+  --shadow: 0 18px 45px rgba(0, 0, 0, 0.32);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  border: 0;
+}
+
+input,
+select {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel);
+  color: var(--text);
+  padding: 0 14px;
+  height: 46px;
+  outline: none;
+}
+
+input:focus,
+select:focus {
+  border-color: var(--green-600);
+  box-shadow: 0 0 0 4px rgba(21, 146, 95, 0.1);
+}
+
+p,
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+img,
+svg {
+  display: block;
+}
+
+.fis-auth-shell {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1.15fr;
+  background: linear-gradient(180deg, #f8fafc, #f6f8fb);
+}
+
+.fis-auth-pane {
+  min-height: 100vh;
+}
+
+.fis-auth-shell.admin-auth .visual-pane,
+.fis-auth-shell.user-auth .visual-pane {
+  background: linear-gradient(180deg, var(--green-900), #073d35);
+  color: #fff;
+}
+
+.fis-auth-visual {
+  position: relative;
+  height: 100%;
+  padding: 42px 56px;
+  overflow: hidden;
+}
+
+.fis-auth-visual.user::before,
+.fis-auth-visual.admin::before,
+.fis-auth-visual.admin::after {
+  content: "";
+  position: absolute;
+  inset: auto;
+  pointer-events: none;
+}
+
+.fis-auth-visual.user::before {
+  left: -8%;
+  top: 12%;
+  width: 130%;
+  height: 130px;
+  background: radial-gradient(circle at 20% 10%, rgba(20, 194, 133, 0.14), transparent 48%);
+}
+
+.fis-auth-visual.admin::before {
+  bottom: 18%;
+  left: -10%;
+  width: 140%;
+  height: 180px;
+  background: radial-gradient(circle at 40% 50%, rgba(255, 255, 255, 0.05), transparent 50%);
+}
+
+.fis-auth-visual.admin::after {
+  bottom: 4%;
+  left: -20%;
+  width: 140%;
+  height: 160px;
+  background: radial-gradient(circle at 60% 20%, rgba(255, 255, 255, 0.05), transparent 48%);
+}
+
+.fis-wave-top {
+  position: absolute;
+  left: -8%;
+  top: 14%;
+  width: 118%;
+  height: 120px;
+  border-radius: 50%;
+  background: rgba(16, 108, 87, 0.25);
+}
+
+.fis-hero-mark {
+  display: flex;
+  justify-content: center;
+  margin-top: 86px;
+}
+
+.fis-auth-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: rgba(24, 194, 133, 0.15);
+  color: #fff;
+}
+
+.fis-auth-logo.large {
+  width: 68px;
+  height: 68px;
+  border-radius: 16px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.fis-logo-icon {
+  width: 42px;
+  height: 42px;
+}
+
+.fis-auth-copy {
+  position: relative;
+  z-index: 1;
+}
+
+.fis-auth-copy.centered {
+  text-align: center;
+  margin-top: 26px;
+}
+
+.fis-auth-copy h2,
+.fis-auth-copy h3 {
+  font-size: 32px;
+  line-height: 1.15;
+  margin-bottom: 12px;
+}
+
+.fis-auth-copy p {
+  color: rgba(255, 255, 255, 0.88);
+  line-height: 1.5;
+  max-width: 420px;
+}
+
+.fis-copy-divider {
+  width: 120px;
+  height: 4px;
+  background: #18c285;
+  border-radius: 999px;
+  margin: 18px auto;
+}
+
+.fis-growth-graphic {
+  position: absolute;
+  inset: auto 54px 70px 54px;
+}
+
+.fis-bars {
+  position: absolute;
+  inset: auto 0 0 22px;
+  display: flex;
+  align-items: end;
+  gap: 18px;
+  height: 150px;
+}
+
+.fis-bars span {
+  width: 32px;
+  border-radius: 0 0 0 0;
+  background: linear-gradient(180deg, rgba(24, 194, 133, 0.85), rgba(24, 194, 133, 0.18));
+}
+
+.fis-bars span:nth-child(1) { height: 26px; }
+.fis-bars span:nth-child(2) { height: 42px; }
+.fis-bars span:nth-child(3) { height: 58px; }
+.fis-bars span:nth-child(4) { height: 80px; }
+.fis-bars span:nth-child(5) { height: 66px; }
+.fis-bars span:nth-child(6) { height: 92px; }
+
+.fis-growth-line {
+  width: 100%;
+  height: 180px;
+  color: #18c285;
+}
+
+.fis-growth-line circle {
+  fill: #18c285;
+}
+
+.fis-auth-brand-block {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.fis-auth-brand-block h2 {
+  font-size: 26px;
+}
+
+.fis-auth-brand-block p {
+  color: #8fd48a;
+  font-size: 16px;
+  margin-top: 6px;
+}
+
+.fis-device-card {
+  margin-top: 54px;
+  position: relative;
+  width: 360px;
+  max-width: 100%;
+}
+
+.fis-device-screen {
+  height: 178px;
+  background: #fff;
+  border-radius: 12px;
+  border: 6px solid #dfe8e3;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.18);
+  padding: 18px;
+}
+
+.fis-device-screen::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 14px;
+  margin: 14px auto 0;
+  border-radius: 999px;
+  background: #dfe8e3;
+}
+
+.fis-device-bars {
+  height: 100%;
+  display: flex;
+  align-items: end;
+  gap: 12px;
+}
+
+.fis-device-bars span {
+  width: 24px;
+  border-radius: 8px 8px 0 0;
+  background: linear-gradient(180deg, #7ed297, #dff3e5);
+}
+
+.fis-device-bars span:nth-child(1) { height: 34px; }
+.fis-device-bars span:nth-child(2) { height: 52px; }
+.fis-device-bars span:nth-child(3) { height: 46px; }
+.fis-device-bars span:nth-child(4) { height: 70px; }
+.fis-device-bars span:nth-child(5) { height: 90px; }
+
+.fis-device-pie {
+  position: absolute;
+  right: 18px;
+  top: 36px;
+  width: 82px;
+  height: 82px;
+  border-radius: 50%;
+  background: conic-gradient(#0f7a54 0 140deg, #dff3e5 140deg 220deg, #8fd48a 220deg 360deg);
+}
+
+.fis-device-shield {
+  position: absolute;
+  right: -28px;
+  bottom: 10px;
+  width: 120px;
+  height: 120px;
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.1);
+  display: grid;
+  place-items: center;
+}
+
+.fis-hero-icon {
+  width: 54px;
+  height: 54px;
+}
+
+.fis-feature-strip {
+  margin-top: 44px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding-top: 18px;
+}
+
+.fis-feature-strip div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+}
+
+.fis-strip-icon {
+  width: 22px;
+  height: 22px;
+}
+
+.form-pane {
+  position: relative;
+  display: grid;
+  place-items: center;
+  padding: 32px;
+}
+
+.form-pane::before,
+.form-pane::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(15, 122, 84, 0.08);
+}
+
+.form-pane::before {
+  width: 128px;
+  height: 128px;
+  right: -20px;
+  top: 210px;
+}
+
+.form-pane::after {
+  width: 88px;
+  height: 88px;
+  right: 60px;
+  bottom: 92px;
+}
+
+.fis-auth-card {
+  width: min(100%, 600px);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  box-shadow: var(--shadow);
+  padding: 34px 34px 28px;
+  position: relative;
+  z-index: 1;
+}
+
+.fis-auth-badge {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  margin: 0 auto 18px;
+  display: grid;
+  place-items: center;
+  color: var(--green-700);
+  background: var(--green-100);
+}
+
+.fis-badge-icon {
+  width: 42px;
+  height: 42px;
+}
+
+.fis-auth-card h1 {
+  text-align: center;
+  font-size: 38px;
+  margin-bottom: 8px;
+}
+
+.fis-auth-card > p {
+  text-align: center;
+  color: var(--muted);
+  margin-bottom: 20px;
+}
+
+.fis-role-switch {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.fis-role-switch button {
+  flex: 1;
+  height: 44px;
+  border-radius: 12px;
+  background: var(--bg-soft);
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.fis-role-switch button.active {
+  background: var(--green-100);
+  color: var(--green-700);
+  font-weight: 700;
+}
+
+.fis-auth-form {
+  display: grid;
+  gap: 18px;
+}
+
+.fis-auth-field {
+  display: grid;
+  gap: 8px;
+}
+
+.fis-auth-field span {
+  font-weight: 700;
+}
+
+.fis-input-shell {
+  position: relative;
+}
+
+.fis-input-shell input {
+  padding-left: 54px;
+  padding-right: 46px;
+}
+
+.fis-field-icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  transform: translateY(-50%);
+  color: var(--muted);
+}
+
+.fis-field-icon.right {
+  left: auto;
+  right: 16px;
+}
+
+.fis-auth-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.fis-check {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--muted);
+}
+
+.fis-check input {
+  width: 18px;
+  height: 18px;
+}
+
+.fis-inline-link {
+  background: transparent;
+  color: var(--green-700);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.fis-primary-btn,
+.fis-secondary-btn,
+.fis-ghost-btn,
+.fis-nav-item,
+.fis-action-card,
+.fis-select-chip {
+  cursor: pointer;
+  transition: transform 0.18s ease, background 0.18s ease;
+}
+
+.fis-primary-btn:hover,
+.fis-secondary-btn:hover,
+.fis-ghost-btn:hover,
+.fis-nav-item:hover,
+.fis-action-card:hover,
+.fis-select-chip:hover {
+  transform: translateY(-1px);
+}
+
+.fis-primary-btn {
+  height: 48px;
+  border-radius: 12px;
+  background: var(--green-700);
+  color: #fff;
+  font-weight: 700;
+}
+
+.fis-primary-btn.compact,
+.fis-secondary-btn.compact {
+  height: 42px;
+  padding: 0 18px;
+  width: auto;
+}
+
+.fis-secondary-btn {
+  height: 48px;
+  border-radius: 12px;
+  background: #fff;
+  color: var(--green-700);
+  border: 1px solid rgba(21, 146, 95, 0.45);
+  font-weight: 700;
+}
+
+.fis-divider {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 18px;
+  align-items: center;
+  color: var(--muted);
+}
+
+.fis-divider::before,
+.fis-divider::after {
+  content: "";
+  height: 1px;
+  background: var(--line);
+}
+
+.fis-auth-foot {
+  text-align: center;
+  color: var(--muted);
+}
+
+.fis-auth-foot span {
+  color: var(--green-700);
+  font-weight: 700;
+}
+
+.fis-error {
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--red-100);
+  color: var(--red-600);
+  border: 1px solid rgba(239, 85, 63, 0.18);
+}
+
+.fis-app-shell {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 206px 1fr;
+  background: var(--bg);
+}
+
+.fis-sidebar {
+  background: var(--panel);
+  border-right: 1px solid var(--line);
+  padding: 0 0 22px;
+  display: flex;
+  flex-direction: column;
+}
+
+.fis-sidebar-brand {
+  background: linear-gradient(180deg, var(--green-800), var(--green-900));
+  color: #fff;
+  padding: 22px 18px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 112px;
+}
+
+.fis-sidebar-brand strong {
+  display: block;
+  font-size: 15px;
+  line-height: 1.25;
+}
+
+.fis-sidebar-brand small {
+  display: block;
+  margin-top: 6px;
+  color: #8fd48a;
+}
+
+.fis-brand-badge {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: rgba(24, 194, 133, 0.18);
+  display: grid;
+  place-items: center;
+}
+
+.fis-brand-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.fis-nav {
+  display: grid;
+  gap: 4px;
+  padding: 10px 10px 0;
+}
+
+.fis-nav-item {
+  height: 42px;
+  border-radius: 10px;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--text);
+  padding: 0 14px;
+}
+
+.fis-nav-item.active {
+  background: #e9f6ec;
+  color: var(--green-700);
+  font-weight: 700;
+}
+
+.fis-nav-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.fis-sidebar-footer {
+  margin-top: auto;
+  padding: 16px 14px 0;
+}
+
+.fis-side-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.fis-side-card.admin {
+  background: linear-gradient(180deg, rgba(12, 90, 73, 0.95), rgba(8, 65, 53, 1));
+  border: 0;
+  color: #fff;
+}
+
+.fis-side-card h4 {
+  margin-top: 14px;
+  margin-bottom: 8px;
+}
+
+.fis-side-card p {
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.fis-side-card.admin p {
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.fis-illustration-card {
+  height: 120px;
+  border-radius: 14px;
+  background: linear-gradient(180deg, #f8fbfc, #f3f7f6);
+  display: grid;
+  place-items: center;
+}
+
+.fis-illustration-lock {
+  width: 72px;
+  height: 72px;
+  border-radius: 22px;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(180deg, #e8f8ee, #d7f0df);
+  color: var(--green-700);
+}
+
+.fis-lock-icon {
+  width: 34px;
+  height: 34px;
+}
+
+.fis-main {
+  padding: 18px 22px 26px;
+}
+
+.fis-topbar {
+  height: 74px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  box-shadow: var(--shadow);
+}
+
+.fis-topbar-left,
+.fis-topbar-right,
+.fis-user-pill,
+.fis-date-chip {
+  display: flex;
+  align-items: center;
+}
+
+.fis-topbar-left {
+  gap: 14px;
+}
+
+.fis-topbar-left h1 {
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.fis-topbar-left p {
+  color: var(--muted);
+}
+
+.fis-topbar-right {
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.fis-ghost-btn {
+  height: 40px;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--text);
+  border: 1px solid transparent;
+}
+
+.fis-ghost-btn.icon-only {
+  width: 40px;
+  display: grid;
+  place-items: center;
+}
+
+.fis-small-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.notification-bell {
+  position: relative;
+}
+
+.fis-bell-badge {
+  position: absolute;
+  top: -4px;
+  right: -2px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #ff4747;
+  color: #fff;
+  font-size: 11px;
+  display: grid;
+  place-items: center;
+}
+
+.fis-user-pill {
+  gap: 10px;
+  padding-left: 6px;
+}
+
+.fis-user-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--text);
+  color: #fff;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+}
+
+.fis-date-chip {
+  gap: 10px;
+  height: 40px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel);
+  color: var(--text);
+}
+
+.fis-date-chip .dash {
+  color: var(--muted);
+}
+
+.fis-page-grid {
+  padding-top: 18px;
+}
+
+.fis-page-grid.user-grid,
+.fis-dashboard-grid,
+.fis-admin-chart-grid,
+.fis-admin-table-grid,
+.fis-analytics-grid,
+.fis-loan-grid {
+  display: grid;
+  gap: 18px;
+}
+
+.fis-page-grid.user-grid {
+  grid-template-columns: 1fr 300px;
+}
+
+.fis-main-content,
+.fis-right-rail {
+  display: grid;
+  gap: 18px;
+}
+
+.fis-main-content.full {
+  grid-column: 1 / -1;
+}
+
+.fis-metrics-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 16px;
+}
+
+.fis-metrics-row.admin {
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+}
+
+.fis-stat-card,
+.fis-panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+}
+
+.fis-stat-card {
+  padding: 16px 16px 12px;
+}
+
+.fis-stat-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.fis-stat-title {
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.fis-stat-card h3 {
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.fis-stat-card p {
+  color: var(--muted);
+}
+
+.fis-trend {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.fis-trend.positive {
+  color: var(--green-600);
+}
+
+.fis-trend.negative {
+  color: var(--red-600);
+}
+
+.fis-icon-chip {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+}
+
+.accent-green { background: var(--green-100); color: var(--green-700); }
+.accent-blue { background: var(--blue-100); color: var(--blue-600); }
+.accent-red { background: var(--red-100); color: var(--red-600); }
+.accent-orange { background: var(--orange-100); color: var(--orange-600); }
+.accent-violet { background: var(--violet-100); color: var(--violet-600); }
+
+.fis-panel {
+  padding: 18px;
+}
+
+.fis-panel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+.fis-panel-head.align-start {
+  align-items: start;
+}
+
+.fis-panel-copy {
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+.fis-select-chip {
+  height: 34px;
+  padding: 0 12px;
+  border-radius: 10px;
+  background: var(--bg-soft);
+  color: var(--muted);
+}
+
+.fis-static-chip {
+  display: inline-flex;
+  align-items: center;
+  height: 34px;
+  padding: 0 12px;
+  border-radius: 10px;
+  background: var(--bg-soft);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.fis-split-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.fis-chart-split {
+  align-items: stretch;
+}
+
+.fis-chart-cell {
+  flex: 1 1 220px;
+  min-width: 220px;
+}
+
+.fis-legend-list {
+  flex: 1;
+  display: grid;
+  gap: 12px;
+}
+
+.fis-legend-row {
+  display: grid;
+  grid-template-columns: 12px 1fr auto;
+  gap: 10px;
+  align-items: center;
+  color: var(--text);
+}
+
+.fis-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.fis-dot.large {
+  width: 12px;
+  height: 12px;
+}
+
+.fis-action-grid,
+.fis-health-grid,
+.fis-form-grid,
+.fis-filter-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.fis-action-grid {
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+}
+
+.fis-action-card {
+  min-height: 76px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  gap: 10px;
+}
+
+.fis-health-grid {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.fis-health-card {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  gap: 12px;
+  align-items: start;
+}
+
+.fis-health-card small,
+.fis-notification-item p,
+.fis-chat-column small,
+.fis-placeholder p {
+  color: var(--muted);
+}
+
+.fis-health-card strong {
+  display: block;
+  margin: 4px 0 6px;
+}
+
+.fis-table-wrap {
+  overflow-x: auto;
+}
+
+.fis-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.fis-table th,
+.fis-table td {
+  padding: 14px 12px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.fis-table th {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.fis-status-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 78px;
+  height: 28px;
+  padding: 0 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.fis-status-pill.income,
+.fis-status-pill.success,
+.fis-status-pill.approved {
+  background: var(--green-100);
+  color: var(--green-700);
+}
+
+.fis-status-pill.expense,
+.fis-status-pill.failed,
+.fis-status-pill.rejected {
+  background: var(--red-100);
+  color: var(--red-600);
+}
+
+.fis-status-pill.review {
+  background: var(--orange-100);
+  color: var(--orange-600);
+}
+
+.fis-notification-list {
+  display: grid;
+  gap: 16px;
+}
+
+.fis-notification-item {
+  display: grid;
+  grid-template-columns: 42px 1fr auto;
+  gap: 12px;
+  align-items: start;
+}
+
+.fis-notification-item strong {
+  text-transform: capitalize;
+}
+
+.fis-admin-chart-grid {
+  grid-template-columns: minmax(0, 1.3fr) repeat(2, minmax(280px, 1fr));
+}
+
+.fis-admin-table-grid {
+  grid-template-columns: 1.2fr 1fr;
+}
+
+.fis-dashboard-grid {
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 1fr) minmax(260px, 0.9fr);
+}
+
+.fis-analytics-grid {
+  grid-template-columns: minmax(0, 1.2fr) minmax(260px, 0.9fr) minmax(280px, 1fr);
+}
+
+.fis-analytics-grid > :nth-child(4),
+.fis-analytics-grid > :nth-child(5),
+.fis-analytics-grid > :nth-child(6) {
+  min-height: 260px;
+}
+
+.fis-insight-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 16px;
+  align-items: center;
+}
+
+.fis-progress-circle {
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background: conic-gradient(var(--green-700) 0 235deg, #ecf1f5 235deg 360deg);
+  display: grid;
+  place-items: center;
+}
+
+.fis-progress-inner {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  background: var(--panel);
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.fis-insight-item {
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: var(--panel-muted);
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.fis-savings-banner {
+  margin-top: 10px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: #eef7f1;
+  color: var(--green-700);
+  font-weight: 600;
+}
+
+.fis-top-expense-list {
+  display: grid;
+  gap: 16px;
+}
+
+.fis-top-expense-row {
+  display: grid;
+  grid-template-columns: 120px 1fr auto;
+  gap: 12px;
+  align-items: center;
+}
+
+.fis-expense-label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.fis-progress-bar {
+  height: 6px;
+  border-radius: 999px;
+  background: #edf1f5;
+  overflow: hidden;
+}
+
+.fis-progress-bar span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+}
+
+.fis-form-grid {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.fis-form-grid .fis-primary-btn {
+  width: auto;
+  padding: 0 18px;
+}
+
+.fis-filter-grid {
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+}
+
+.fis-loan-grid {
+  grid-template-columns: 1.1fr 0.9fr;
+}
+
+.fis-loan-form {
+  display: grid;
+  gap: 14px;
+}
+
+.fis-loan-form label {
+  display: grid;
+  gap: 8px;
+}
+
+.fis-loan-summary {
+  background: linear-gradient(180deg, rgba(234, 247, 239, 0.85), rgba(255, 255, 255, 0.98));
+}
+
+.fis-loan-summary h2 {
+  font-size: 34px;
+  margin: 8px 0 8px;
+}
+
+.fis-loan-summary ul {
+  margin: 14px 0;
+  padding-left: 18px;
+  color: var(--text);
+}
+
+.fis-card-kicker {
+  color: var(--green-700);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.fis-chat-panel {
+  padding-bottom: 16px;
+}
+
+.fis-chat-window {
+  min-height: 520px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 16px;
+  background: var(--panel);
+  display: grid;
+  gap: 18px;
+}
+
+.fis-chat-row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.fis-chat-row.user {
+  justify-content: flex-end;
+}
+
+.fis-chat-column {
+  max-width: 66%;
+  display: grid;
+  gap: 8px;
+}
+
+.fis-chat-row.user .fis-chat-column {
+  justify-items: end;
+}
+
+.fis-chat-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 18px;
+}
+
+.fis-chat-avatar.bot {
+  background: #e9f6ec;
+}
+
+.fis-chat-avatar.user {
+  background: #0f7a54;
+}
+
+.fis-chat-bubble {
+  border-radius: 16px;
+  padding: 14px 16px;
+  line-height: 1.6;
+}
+
+.fis-chat-bubble.bot {
+  background: #f6f8fb;
+  border: 1px solid var(--line);
+}
+
+.fis-chat-bubble.user {
+  background: #eaf7ef;
+}
+
+.fis-chat-bubble ul {
+  margin: 10px 0 0;
+  padding-left: 18px;
+}
+
+.fis-chat-entry {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.fis-placeholder {
+  min-height: 220px;
+  display: grid;
+  align-content: center;
+}
+
+.fis-grid-2,
+.fis-grid-3,
+.fis-grid-4 {
+  display: grid;
+  gap: 16px;
+}
+
+.fis-grid-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+.fis-grid-3 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.fis-grid-4 {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.fis-info-card,
+.fis-empty-state {
+  padding: 16px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--panel-muted);
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.fis-info-card strong,
+.fis-empty-state strong {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.fis-info-card small {
+  display: block;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.fis-button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.fis-user-trigger {
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.fis-chat-avatar {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+@media (max-width: 1280px) {
+  .fis-page-grid.user-grid,
+  .fis-app-shell,
+  .fis-auth-shell,
+  .fis-dashboard-grid,
+  .fis-admin-chart-grid,
+  .fis-admin-table-grid,
+  .fis-analytics-grid,
+  .fis-loan-grid,
+  .fis-insight-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .fis-sidebar {
+    min-height: auto;
+  }
+
+  .fis-metrics-row,
+  .fis-metrics-row.admin,
+  .fis-health-grid,
+  .fis-action-grid,
+  .fis-form-grid,
+  .fis-filter-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .fis-main,
+  .fis-auth-visual,
+  .form-pane,
+  .fis-auth-card {
+    padding: 18px;
+  }
+
+  .fis-topbar,
+  .fis-panel-head,
+  .fis-topbar-right,
+  .fis-auth-row,
+  .fis-role-switch,
+  .fis-chat-entry,
+  .fis-feature-strip,
+  .fis-health-grid,
+  .fis-metrics-row,
+  .fis-metrics-row.admin,
+  .fis-action-grid,
+  .fis-form-grid,
+  .fis-filter-grid {
+    grid-template-columns: 1fr;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .fis-topbar {
+    height: auto;
+    padding: 16px;
+  }
+
+  .fis-chat-column {
+    max-width: 100%;
+  }
+
+  .fis-table th,
+  .fis-table td {
+    white-space: normal;
+  }
+}
+
+@media (max-width: 1100px) {
+  .fis-app-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .fis-sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 280px;
+    height: 100vh;
+    z-index: 40;
+    transform: translateX(-102%);
+    transition: transform 0.2s ease;
+  }
+
+  .fis-sidebar.open {
+    transform: translateX(0);
+  }
+}
+
+/* Reference-screen polish pass */
+:root {
+  --bg: #f8fafc;
+  --bg-soft: #fbfcfe;
+  --panel-muted: #f8faf9;
+  --text: #111c31;
+  --muted: #657286;
+  --line: #e4e9f0;
+  --green-950: #02352f;
+  --green-900: #043c34;
+  --green-800: #075f49;
+  --green-700: #078442;
+  --green-600: #0a9250;
+  --shadow: 0 8px 18px rgba(15, 34, 58, 0.045);
+}
+
+body {
+  font-family: Inter, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0;
+}
+
+input,
+select,
+.fis-primary-btn,
+.fis-secondary-btn,
+.fis-role-switch button,
+.fis-date-chip,
+.fis-ghost-btn,
+.fis-select-chip,
+.fis-static-chip,
+.fis-status-pill {
+  border-radius: 7px;
+}
+
+input,
+select {
+  height: 42px;
+}
+
+.fis-auth-shell {
+  grid-template-columns: 42% 58%;
+  padding: 8px;
+  background: #f6f8fb;
+}
+
+.fis-auth-pane {
+  min-height: calc(100vh - 16px);
+}
+
+.fis-auth-shell.admin-auth .visual-pane,
+.fis-auth-shell.user-auth .visual-pane {
+  border-radius: 8px 0 0 8px;
+  background:
+    radial-gradient(circle at 48% 15%, rgba(8, 112, 83, 0.55), transparent 34%),
+    linear-gradient(180deg, var(--green-900), #033c35 48%, #03312c);
+}
+
+.fis-auth-visual {
+  padding: 48px 56px;
+}
+
+.fis-auth-logo {
+  background: rgba(8, 132, 66, 0.72);
+}
+
+.fis-auth-copy h2,
+.fis-auth-copy h3 {
+  font-size: 30px;
+}
+
+.fis-growth-graphic {
+  inset: auto 56px 86px;
+}
+
+.fis-bars span {
+  border-radius: 2px 2px 0 0;
+}
+
+.form-pane {
+  padding: 34px;
+  background:
+    radial-gradient(circle at 96% 34%, rgba(5, 132, 75, 0.09) 0 70px, transparent 72px),
+    radial-gradient(circle at 89% 78%, rgba(5, 132, 75, 0.09) 0 36px, transparent 38px),
+    radial-gradient(#dce3ea 1.2px, transparent 1.2px) 97% 1% / 18px 18px no-repeat,
+    #fbfcfe;
+}
+
+.form-pane::before,
+.form-pane::after {
+  display: none;
+}
+
+.fis-auth-card {
+  width: min(100%, 592px);
+  border-radius: 12px;
+  padding: 36px 54px 32px;
+}
+
+.fis-auth-card h1 {
+  font-size: 30px;
+}
+
+.fis-auth-form {
+  gap: 16px;
+}
+
+.fis-primary-btn {
+  height: 44px;
+  background: #078742;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.fis-secondary-btn {
+  height: 44px;
+}
+
+.fis-app-shell {
+  grid-template-columns: 206px 1fr;
+  background: #fbfcfe;
+  border: 1px solid #dfe5ec;
+}
+
+.fis-main {
+  padding: 0 18px 20px;
+  min-width: 0;
+}
+
+.fis-topbar {
+  height: 48px;
+  margin: 0 -18px;
+  padding: 0 18px;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.fis-topbar-left h1 {
+  font-size: 14px;
+  margin-bottom: 0;
+  font-weight: 800;
+}
+
+.fis-topbar-left p {
+  display: none;
+}
+
+.fis-ghost-btn {
+  height: 34px;
+}
+
+.fis-ghost-btn.icon-only {
+  width: 34px;
+}
+
+.fis-user-avatar {
+  width: 30px;
+  height: 30px;
+}
+
+.fis-date-chip {
+  height: 34px;
+}
+
+.fis-page-title-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 22px 6px 0;
+}
+
+.fis-page-title-row h2 {
+  font-size: 22px;
+  line-height: 1.2;
+  margin: 0 0 6px;
+}
+
+.fis-page-title-row p {
+  color: var(--muted);
+  margin: 0;
+}
+
+.fis-page-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.fis-page-grid {
+  padding-top: 14px;
+}
+
+.fis-sidebar-brand {
+  min-height: 108px;
+  padding: 24px 18px;
+}
+
+.fis-nav {
+  gap: 8px;
+  padding: 18px 12px 0;
+}
+
+.fis-nav-item {
+  height: 40px;
+  border-radius: 7px;
+}
+
+.fis-side-card,
+.fis-stat-card,
+.fis-panel,
+.fis-action-card,
+.fis-info-card,
+.fis-empty-state,
+.fis-chat-window,
+.fis-chat-bubble {
+  border-radius: 8px;
+}
+
+.fis-stat-card,
+.fis-panel {
+  box-shadow: var(--shadow);
+}
+
+.fis-stat-card {
+  padding: 16px 18px 0;
+  overflow: hidden;
+}
+
+.fis-trend {
+  margin: 16px -18px 0;
+  padding: 10px 18px;
+  border-top: 0;
+  background: #f2faf5;
+}
+
+.fis-trend.negative {
+  background: #fff4f2;
+}
+
+.fis-panel {
+  padding: 16px 18px;
+}
+
+.fis-action-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.fis-table th,
+.fis-table td {
+  padding: 12px;
+}
+
+.fis-dashboard-grid {
+  grid-template-columns: minmax(0, 1.15fr) minmax(270px, 0.95fr) minmax(250px, 0.85fr);
+}
+
+.fis-chat-window {
+  min-height: 548px;
+}
+
+.fis-chat-avatar {
+  width: 38px;
+  height: 38px;
+  font-size: 10px;
+}
+
+.fis-chat-bubble.bot {
+  background: #f7f8fb;
+  border: 0;
+}
+
+.fis-app-shell.admin .fis-sidebar {
+  background: var(--green-950);
+  color: #fff;
+  border-right: 0;
+}
+
+.fis-app-shell.admin .fis-sidebar-brand {
+  background: transparent;
+}
+
+.fis-app-shell.admin .fis-nav-item {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.fis-app-shell.admin .fis-nav-item.active {
+  background: #08743b;
+  color: #fff;
+}
+
+.fis-app-shell.admin .fis-side-card.admin {
+  background: rgba(8, 116, 59, 0.38);
+}
+
+.fis-app-shell.admin .fis-main,
+.fis-app-shell.admin .fis-topbar {
+  background: #f7f8fb;
+}
+
+@media (max-width: 1280px) {
+  .fis-auth-shell,
+  .fis-dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .fis-action-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .fis-auth-card {
+    padding: 22px;
+  }
+
+  .fis-page-title-row {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

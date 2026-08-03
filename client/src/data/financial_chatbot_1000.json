@@ -1,0 +1,5002 @@
+[
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b950000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b950000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b920000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b930000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b912000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b920000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b98000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b915000 per month, can I take a loan of \u20b9200000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b96000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b940000 per month, can I take a loan of \u20b9100000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b916000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b925000 per month, can I take a loan of \u20b9300000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b910000)."
+  },
+  {
+    "intent": "loan_eligibility",
+    "question": "I earn \u20b975000 per month, can I take a loan of \u20b9500000?",
+    "answer": "You may be eligible, but ensure your EMI stays below 40% of your salary (~\u20b930000)."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91887.12 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b96673.33 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b95661.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b917583.18 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b926235.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93321.43 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b95940.36 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b915438.55 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91062.35 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b92997.09 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91112.22 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b98991.27 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94395.79 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96359.95 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92224.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b94477.26 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b943725.74 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b98954.52 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93087.71 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b914122.04 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b917769.76 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b943263.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91543.85 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b93960.24 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93226.72 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b99435.62 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b926235.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922386.29 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92124.7 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 5% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b94387.14 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913431.77 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b943725.74 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b943725.74 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b96227.51 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b910623.52 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94442.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922842.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922842.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b9943.56 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91498.54 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94372.57 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96359.95 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b917305.35 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91589.99 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913705.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b95994.18 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99263.13 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92353.67 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94249.41 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92075.84 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b925682.24 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92075.84 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94448.89 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99263.13 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94280.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b926654.64 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b99136.95 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b98991.27 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94280.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94395.79 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92224.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913161.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b92997.09 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92124.7 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b95940.36 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b917769.76 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b914122.04 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94249.41 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913161.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b914122.04 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b926374.77 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94448.89 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b925958.02 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b99435.62 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92193.57 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 10% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b99228.99 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91980.12 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b98745.15 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b9990.06 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b98745.15 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92193.57 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b914985.45 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99680.16 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b98791.59 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b95940.36 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b916607.15 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91037.92 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91589.99 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b94477.26 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b95661.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94326.34 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91062.35 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b93960.24 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b944424.39 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99964.29 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91589.99 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96175.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b98791.59 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b99414.69 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b92997.09 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99539.92 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94151.67 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92353.67 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913431.77 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b916133.59 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b910623.52 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91980.12 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99263.13 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94151.67 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913161.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b9990.06 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91543.85 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92353.67 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92224.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96175.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b916133.59 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94448.89 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b943725.74 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96359.95 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99539.92 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92224.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b917121.5 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913705.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 5% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b98774.28 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92124.7 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92075.84 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b917490.3 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b93774.25 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b98884.88 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b944424.39 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b99435.62 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91062.35 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91498.54 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 10% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b923072.46 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b96673.33 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b94614.49 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b925958.02 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99964.29 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91498.54 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93179.97 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922386.29 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93087.71 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b99539.92 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b98652.67 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94280.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 10% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b913843.48 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92124.7 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b910623.52 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92238.63 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922842.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96359.95 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92284.24 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b9990.06 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94448.89 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b917305.35 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94395.79 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91543.85 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b911122.22 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b925958.02 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94395.79 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922386.29 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 7% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96175.42 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b99435.62 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b925682.24 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91589.99 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94372.57 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 5% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b9943.56 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b98991.27 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93321.43 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94151.67 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91613.36 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b91037.92 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b99414.69 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b92284.24 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91613.36 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 9% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922842.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93321.43 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b92075.84 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b94442.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 12% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b914122.04 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 10% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b99228.99 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b96374.11 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 12% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b944424.39 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b92997.09 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b926235.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 10% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b926374.77 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b950000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b91660.72 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b925682.24 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 10% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94249.41 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 7% for 24 months?",
+    "answer": "Your EMI will be approximately \u20b922386.29 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 9% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93179.97 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 9% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b926235.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b916607.15 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9300000 at 5% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b98991.27 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 12% for 60 months?",
+    "answer": "Your EMI will be approximately \u20b94448.89 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9200000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b96453.44 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 10% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93226.72 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 5% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b942803.74 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9500000 at 7% for 12 months?",
+    "answer": "Your EMI will be approximately \u20b943263.37 per month."
+  },
+  {
+    "intent": "emi_calculation",
+    "question": "What is EMI for \u20b9100000 at 12% for 36 months?",
+    "answer": "Your EMI will be approximately \u20b93321.43 per month."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "How do banks detect fraud?",
+    "answer": "Banks use AI models and pattern analysis to detect fraud."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "I see a transaction I didn't make, what should I do?",
+    "answer": "Immediately block your card and inform your bank."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "What is a suspicious transaction?",
+    "answer": "A transaction that deviates from your normal behavior."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my payment declined?",
+    "answer": "It could be due to security checks or insufficient balance."
+  },
+  {
+    "intent": "fraud_detection",
+    "question": "Why was my card blocked?",
+    "answer": "It may be due to unusual activity detected by the system."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "credit_score",
+    "question": "How can I improve my credit score?",
+    "answer": "Pay EMIs on time, reduce credit utilization, and avoid multiple loans."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is EMI good or bad?",
+    "answer": "EMI is useful but should be within limits."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Is investing better than saving?",
+    "answer": "Both are important\u2014saving for safety, investing for growth."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "Should I take a loan for a phone?",
+    "answer": "Avoid loans for non-essential items."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How to manage my expenses?",
+    "answer": "Track your spending and create a budget."
+  },
+  {
+    "intent": "financial_advice",
+    "question": "How much should I save monthly?",
+    "answer": "Try to save at least 20% of your income."
+  }
+]

@@ -1,0 +1,10 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="210" cy="210" r="184" stroke="#C6A65A" stroke-width="12" opacity="0.55"/>
+  <circle cx="210" cy="210" r="162" stroke="#C6A65A" stroke-width="3" opacity="0.65"/>
+  <circle cx="210" cy="210" r="88" stroke="#C6A65A" stroke-width="2" opacity="0.5"/>
+  <path d="M210 116C192 140 176 167 170 194C166 211 170 225 182 232C193 238 202 229 210 215C218 229 227 238 238 232C250 225 254 211 250 194C244 167 228 140 210 116Z" fill="#C6A65A" opacity="0.68"/>
+  <path d="M160 255H260" stroke="#C6A65A" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+  <path d="M151 278C179 257 241 257 269 278" stroke="#C6A65A" stroke-width="6" stroke-linecap="round" opacity="0.45"/>
+  <text x="210" y="72" text-anchor="middle" fill="#C6A65A" font-size="22" font-family="Georgia" opacity="0.72">RESERVE STYLE</text>
+  <text x="210" y="350" text-anchor="middle" fill="#C6A65A" font-size="22" font-family="Georgia" opacity="0.72">BANK OF INDIA</text>
+</svg>

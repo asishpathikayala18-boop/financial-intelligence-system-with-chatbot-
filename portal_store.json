@@ -1,0 +1,398 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "role": "admin",
+      "email": "admin@finbank.ai",
+      "password": "admin123",
+      "name": "Admin Officer",
+      "avatar": "AO",
+      "monthlySalary": 0,
+      "createdAt": "2026-06-10"
+    },
+    {
+      "id": 2,
+      "role": "user",
+      "email": "user@finbank.ai",
+      "password": "user123",
+      "name": "Aman Sharma",
+      "avatar": "AS",
+      "monthlySalary": 78000,
+      "createdAt": "2026-05-13"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "userId": 2,
+      "title": "Salary Credit",
+      "category": "Salary",
+      "type": "income",
+      "amount": 78000,
+      "date": "2026-07-31",
+      "note": "Monthly salary credited"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Project Bonus",
+      "category": "Freelance",
+      "type": "income",
+      "amount": 14040,
+      "date": "2026-08-07",
+      "note": "Side income and incentive payout"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "House Rent",
+      "category": "Housing",
+      "type": "expense",
+      "amount": 18720,
+      "date": "2026-08-02",
+      "note": "Monthly rent payment"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "Groceries",
+      "category": "Food",
+      "type": "expense",
+      "amount": 6240,
+      "date": "2026-08-09",
+      "note": "Household essentials"
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "title": "Utility Bills",
+      "category": "Utilities",
+      "type": "expense",
+      "amount": 3900,
+      "date": "2026-08-12",
+      "note": "Electricity, water, and internet"
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "title": "Transport Pass",
+      "category": "Transport",
+      "type": "expense",
+      "amount": 3120,
+      "date": "2026-08-14",
+      "note": "Daily commute"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "title": "SIP Investment",
+      "category": "Investment",
+      "type": "expense",
+      "amount": 7020,
+      "date": "2026-08-17",
+      "note": "Monthly wealth allocation"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "title": "Dining and Leisure",
+      "category": "Lifestyle",
+      "type": "expense",
+      "amount": 3900,
+      "date": "2026-07-24",
+      "note": "Weekend spending"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 1,
+      "timestamp": "2026-07-31T10:00:00",
+      "summary": "INCOME of Rs 78,000 recorded for Salary"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 2,
+      "timestamp": "2026-08-07T10:00:00",
+      "summary": "INCOME of Rs 14,040 recorded for Freelance"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 3,
+      "timestamp": "2026-08-02T10:00:00",
+      "summary": "EXPENSE of Rs 18,720 recorded for Housing"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 4,
+      "timestamp": "2026-08-09T10:00:00",
+      "summary": "EXPENSE of Rs 6,240 recorded for Food"
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 5,
+      "timestamp": "2026-08-12T10:00:00",
+      "summary": "EXPENSE of Rs 3,900 recorded for Utilities"
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 6,
+      "timestamp": "2026-08-14T10:00:00",
+      "summary": "EXPENSE of Rs 3,120 recorded for Transport"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 7,
+      "timestamp": "2026-08-17T10:00:00",
+      "summary": "EXPENSE of Rs 7,020 recorded for Investment"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "kind": "TRANSACTION_CREATED",
+      "transactionId": 8,
+      "timestamp": "2026-07-24T10:00:00",
+      "summary": "EXPENSE of Rs 3,900 recorded for Lifestyle"
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T13:47:18.025Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T13:47:41.655Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T13:48:31.931Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 12,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T13:52:50.083Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 13,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T13:56:51.488Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 14,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T14:00:43.521Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 15,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T14:07:37.740Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 16,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T14:10:36.457Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    },
+    {
+      "id": 17,
+      "userId": 2,
+      "kind": "USER_LOGIN",
+      "transactionId": null,
+      "timestamp": "2026-08-02T14:17:29.709Z",
+      "summary": "Aman Sharma signed in to the user workspace."
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "userId": 2,
+      "role": "user",
+      "title": "Welcome aboard",
+      "description": "Your account is ready with a starter financial profile so you can explore the dashboard immediately.",
+      "time": "just now"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "role": "user",
+      "title": "Savings insight",
+      "description": "A starting salary profile of Rs 78,000 has been loaded for your analytics demo.",
+      "time": "5 mins ago"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "role": "user",
+      "title": "Loan readiness",
+      "description": "Open Loans & EMI to review affordability and explainable decision factors.",
+      "time": "12 mins ago"
+    },
+    {
+      "id": 101,
+      "userId": null,
+      "role": "admin",
+      "title": "Platform overview",
+      "description": "User activity, transactions, and system alerts are synced for the latest reporting cycle.",
+      "time": "2 mins ago"
+    },
+    {
+      "id": 102,
+      "userId": null,
+      "role": "admin",
+      "title": "Security check",
+      "description": "Audit entries are being recorded for login and registration events.",
+      "time": "18 mins ago"
+    }
+  ],
+  "loginAudit": [
+    {
+      "id": 11,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T14:17:29.709Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T14:10:36.457Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T14:07:37.740Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T14:00:43.521Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T13:56:51.488Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T13:52:50.083Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T13:48:31.931Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T13:47:41.655Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-02T13:47:18.025Z",
+      "ipAddress": "192.168.1.100"
+    },
+    {
+      "id": 1,
+      "userId": 2,
+      "name": "Aman Sharma",
+      "email": "user@finbank.ai",
+      "role": "user",
+      "status": "Success",
+      "timestamp": "2026-08-20T10:45:00",
+      "ipAddress": "192.168.1.101"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Admin Officer",
+      "email": "admin@finbank.ai",
+      "role": "admin",
+      "status": "Success",
+      "timestamp": "2026-08-20T09:10:00",
+      "ipAddress": "192.168.1.110"
+    }
+  ]
+}

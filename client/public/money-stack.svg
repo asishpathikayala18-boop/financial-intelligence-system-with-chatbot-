@@ -1,0 +1,10 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.95">
+    <rect x="118" y="152" width="318" height="98" rx="18" fill="#ECE5D2" stroke="#88815E"/>
+    <rect x="130" y="136" width="318" height="98" rx="18" fill="#F3ECD8" stroke="#88815E"/>
+    <rect x="146" y="118" width="318" height="98" rx="18" fill="#FAF5E5" stroke="#88815E"/>
+    <rect x="286" y="110" width="28" height="124" rx="10" fill="#9BD15E"/>
+    <circle cx="202" cy="168" r="30" fill="#D5D0BC"/>
+    <text x="324" y="176" fill="#4A493D" font-size="32" font-family="Georgia">₹500</text>
+  </g>
+</svg>

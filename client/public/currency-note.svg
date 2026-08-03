@@ -1,0 +1,10 @@
+<svg width="800" height="360" viewBox="0 0 800 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="18" y="18" width="764" height="324" rx="26" fill="#EEDFE4" stroke="#C590A5" stroke-width="4"/>
+  <rect x="44" y="44" width="712" height="272" rx="18" stroke="#D6A9B8" stroke-dasharray="8 10"/>
+  <circle cx="134" cy="180" r="58" fill="#D9B2C0" opacity="0.55"/>
+  <circle cx="652" cy="180" r="58" fill="#D9B2C0" opacity="0.55"/>
+  <text x="82" y="92" fill="#A14A69" font-size="38" font-family="Georgia">Rs. 100</text>
+  <text x="520" y="102" fill="#A14A69" font-size="34" font-family="Georgia">ONE HUNDRED</text>
+  <text x="260" y="178" fill="#B75E7B" font-size="52" font-family="Georgia">INDIA</text>
+  <text x="210" y="234" fill="#B75E7B" font-size="26" font-family="Georgia">NON JUDICIAL STYLE NOTE</text>
+</svg>
